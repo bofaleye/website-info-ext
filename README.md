@@ -12,5 +12,5 @@
 ### click on the pin in front of "Website Info extension" and a litttle icon should appear on top.
 <img width="345" alt="Screenshot 2023-08-08 at 5 49 48 PM" src="https://github.com/bofaleye/website-info-ext/assets/10248893/79f85b75-c371-48e1-befa-0bd5a943847a">
 
-### open a new tab and navigate to any website, you should see the information on the website as shown below
+### open a new tab and navigate to any website, click on the "Website Info extension icon". you should see the information on the website as shown below
 <img width="663" alt="Screenshot 2023-08-08 at 5 50 37 PM" src="https://github.com/bofaleye/website-info-ext/assets/10248893/3297a225-03fe-4e38-a604-c8be53198238">
